@@ -1,0 +1,21 @@
+Date,Day of the Week,Amount,Description,Category ,Method of Payment
+1/19,Thursday,9,Breakfast,Food,Cash
+1/20,Friday,4,Drink,Food,Cash
+1/21,Saturday,65,Gas,Travel,Credit
+1/21,Saturday,80,Brunch,Food,Debit
+1/21,Saturday,30,Hoodie,Clothing,Debit
+1/21,Saturday,55,Flower,Entertainment and Recreation,Cash
+1/23,Monday,10,Starbucks,Food,Cash
+1/23,Monday,11,Cafe,Food,Debit
+1/24,Tuesday,8,Starbucks,Food,Debit
+1/24,Tuesday,12,Panda Express,Food,Debit
+1/25,Wednesday,10,Starbucks,Food,Cash
+1/26,Thursday,5,Drink,Food,Cash
+1/27,Friday,13,In n Out,Food,Debit
+1/28,Saturday,75,Gas,Travel,Credit
+1/29,Sunday,40,Pamts,Entertainment and Recreation,Debit
+1/30,Monday,20,Dinner,Food,Cash
+1/31,Tuesday,10,Starbucks,Food,Debit
+1/31,Tuesday,12,Panda Express,Food,Debit
+2/1,Wednesday,255,Insurance,Bills,Debit
+2/2,Thursday,10,Starbucks,Food,Debit
